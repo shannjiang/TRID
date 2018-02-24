@@ -1,5 +1,4 @@
 ## TRID
-\name{TRID}## TRID
 
 ## Title
 Calculation of gene TRID weights from a gene expression matrix
@@ -29,7 +28,4 @@ Shan Jiang
 
 
 ## examples
-TRID_weights <- TRID(datExpr, datExpr_annotation)
-
-# compute TRID weights
 TRID_weights <- TRID(datExpr, datExpr_annotation)
